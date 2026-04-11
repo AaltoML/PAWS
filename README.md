@@ -33,4 +33,14 @@ See the project website at [https://aaltoml.github.io/PAWS/](https://aaltoml.git
 
 ## Citation
 
-Coming soon.
+```bibtex
+@misc{wang2026pawsperceptionarticulationwild,
+      title={PAWS: Perception of Articulation in the Wild at Scale from Egocentric Videos}, 
+      author={Yihao Wang and Yang Miao and Wenshuai Zhao and Wenyan Yang and Zihan Wang and Joni Pajarinen and Luc Van Gool and Danda Pani Paudel and Juho Kannala and Xi Wang and Arno Solin},
+      year={2026},
+      eprint={2603.25539},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.25539}, 
+}
+```
